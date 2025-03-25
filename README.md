@@ -8,7 +8,7 @@
 <div class="container">
     <h1 class="text-center text-danger my-4">2025 Calendar</h1>
 
-    <!-- January 2025 -->
+  
 <div class="month">
     <div class="month-name">January 2025</div>
     <table class="table table-bordered">
@@ -28,7 +28,7 @@
 </div>
 
 
-    <!-- February 2025 -->
+   
 <div class="month">
     <div class="month-name">February 2025</div>
     <table class="table table-bordered">
@@ -48,7 +48,7 @@
 </div>
 
 
-   <!-- March 2025 -->
+   
 <div class="month">
     <div class="month-name">March 2025</div>
     <table class="table table-bordered">
@@ -67,7 +67,7 @@
     </table>
 </div>
 
-<!-- April 2025 -->
+
 <div class="month">
     <div class="month-name">April 2025</div>
     <table class="table table-bordered">
@@ -86,7 +86,7 @@
     </table>
 </div>
 
-<!-- May 2025 -->
+
 <div class="month">
     <div class="month-name">May 2025</div>
     <table class="table table-bordered">
